@@ -4,7 +4,8 @@ Module 2 SDLC Assignment
 Requirements for the LMS Software are as follows:
 1. The ability to add new books to the collection from a text file based on each book’s unique ID number, title, and author.
 2. The ability to remove a book from the collection using said ID number.
-3. The ability to list all books currently in the collection.
+3. The ability to list all books currently in the collection's stock.
+4. The ability to check in and check out books as needed.
 
 System must be easy to access and use and must be able to withstand times of high usage stress when used from multiple sources. Users will be of staff attempting to locate items, manage checkouts and ins, or just attempting to do inventory.
 # Gathering Requirements 

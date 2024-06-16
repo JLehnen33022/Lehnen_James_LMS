@@ -13,7 +13,7 @@ public class Main {
         // Read books from the text file and add them to the library
         System.out.print("Enter Title of Book: ");
         String fileName = scanner.nextLine();
-        ManageLibrary.addBookFromFile(fileName);
+        ManageLibrary.addBookFromFile("books.txt");
 
         // Method to list all books in the library
         System.out.println("\nLibrary stock:");
